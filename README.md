@@ -1,1 +1,1 @@
-# projetGenieLogiciel_G3_M2GDIL
+# projet perceptron de Rosen Blatt
